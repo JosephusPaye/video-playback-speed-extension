@@ -6,5 +6,7 @@ Get it on the [Chrome Webstore](https://chrome.google.com/webstore/detail/video-
 
 ![Screenshot of Video Play Speed Extension](http://i.imgur.com/0p4UWCC.png)
 
+**Note**: Flash videos not supported, HTML5 videos only.
+
 ### Licence
 MIT licence
